@@ -1,0 +1,16 @@
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\GUI-Client\bin\Debug\GUI-Client.exe.config
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\GUI-Client\bin\Debug\GUI-Client.exe
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\GUI-Client\bin\Debug\GUI-Client.pdb
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\GUI-Client\bin\Debug\Communication Channel.exe
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\GUI-Client\bin\Debug\Communication Channel.pdb
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\GUI-Client\obj\Debug\GUI-Client.csprojResolveAssemblyReference.cache
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\GUI-Client\obj\Debug\MainWindow.g.cs
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\GUI-Client\obj\Debug\App.g.cs
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\GUI-Client\obj\Debug\GUI-Client_MarkupCompile.cache
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\GUI-Client\obj\Debug\GUI-Client_MarkupCompile.lref
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\GUI-Client\obj\Debug\MainWindow.baml
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\GUI-Client\obj\Debug\GUI-Client.g.resources
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\GUI-Client\obj\Debug\GUI_Client.Properties.Resources.resources
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\GUI-Client\obj\Debug\GUI-Client.csproj.GenerateResource.Cache
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\GUI-Client\obj\Debug\GUI-Client.exe
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\GUI-Client\obj\Debug\GUI-Client.pdb

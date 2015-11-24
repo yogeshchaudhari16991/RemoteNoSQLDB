@@ -1,0 +1,8 @@
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\Write Client\bin\Debug\Write Client.exe.config
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\Write Client\bin\Debug\Write Client.exe
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\Write Client\bin\Debug\Write Client.pdb
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\Write Client\bin\Debug\Communication Channel.exe
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\Write Client\bin\Debug\Communication Channel.pdb
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\Write Client\obj\Debug\Write Client.csprojResolveAssemblyReference.cache
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\Write Client\obj\Debug\Write Client.exe
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\Write Client\obj\Debug\Write Client.pdb

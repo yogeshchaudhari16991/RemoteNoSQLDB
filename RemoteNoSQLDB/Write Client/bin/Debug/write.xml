@@ -1,0 +1,131 @@
+<NoSQL>
+<DB>
+	<KeyType>String</KeyType>
+	<PayloadType>List`1</PayloadType>
+	<Query>
+	<QueryType>Insert Element</QueryType>
+	<NumberOfQueries>2</NumberOfQueries>
+	<Key>one</Key>
+	<Element>
+		<name>element4</name>
+		<descr>test element for adding key-value pair to databse with value as list of string</descr>
+		<timestamp>11/14/2015 7:00:16 PM</timestamp>
+		<children>
+			<key>one</key>
+			<key>two</key>
+		</children>
+		<payload>
+			<item>test elemet4's payload</item>
+			<item>element's payload</item>
+		</payload>
+	</Element>
+	</Query>
+	<Query>
+	<QueryType>Edit Element Metadata</QueryType>
+	<NumberOfQueries>1</NumberOfQueries>
+	<Key>one</Key>
+	<Element>
+		<name>element4 edited</name>
+		<descr>test element for adding key-value pair to databse with value as list of string (edited)</descr>
+		<timestamp>11/17/2015 7:00:16 PM</timestamp>
+		<children>
+			<key>one</key>
+			<key>two</key>
+		</children>
+		<payload>
+			<item>test elemet4's payload</item>
+			<item>element's payload</item>
+		</payload>
+	</Element>
+	</Query>
+	<Query>
+	<QueryType>Edit Element Metadata and Add Children</QueryType>
+	<NumberOfQueries>1</NumberOfQueries>
+	<Key>one</Key>
+	<Element>
+		<name>element4 edited</name>
+		<descr>test element for adding key-value pair to databse with value as list of string (edited)</descr>
+		<timestamp>11/17/2015 7:00:16 PM</timestamp>
+		<children>
+			<key>one3</key>
+			<key>one4</key>
+		</children>
+		<payload>
+			<item>test elemet4's payload</item>
+			<item>element's payload</item>
+		</payload>
+	</Element>
+	</Query>
+	<Query>
+	<QueryType>Edit Element Metadata and Remove Children</QueryType>
+	<NumberOfQueries>1</NumberOfQueries>
+	<Key>one</Key>
+	<Element>
+		<name>element4 edited</name>
+		<descr>test element for adding key-value pair to databse with value as list of string (edited)</descr>
+		<timestamp>11/17/2015 7:00:16 PM</timestamp>
+		<children>
+			<key>one3</key>
+		</children>
+		<payload>
+			<item>test elemet4's payload</item>
+			<item>element's payload</item>
+		</payload>
+	</Element>
+	</Query>
+	<Query>
+	<QueryType>Edit Element Metadata and Edit Payload</QueryType>
+	<NumberOfQueries>1</NumberOfQueries>
+	<Key>one</Key>
+	<Element>
+		<name>element4 edited</name>
+		<descr>test element for adding key-value pair to databse with value as list of string (edited)</descr>
+		<timestamp>11/17/2015 7:00:16 PM</timestamp>
+		<children>
+			<key>one</key>
+			<key>two</key>
+		</children>
+		<payload>
+			<item>test elemet4's payload</item>
+			<item>element's payload modified</item>
+		</payload>
+	</Element>
+	</Query>
+	<Query>
+	<QueryType>Persist Database</QueryType>
+	<Destination>enum_db.xml</Destination>
+	</Query>
+	<Query>
+	<QueryType>Delete Element</QueryType>
+	<NumberOfQueries>1</NumberOfQueries>
+	<Key>one</Key>
+	</Query>
+	<Query>
+	<QueryType>Restore Database</QueryType>
+	<Source>enum_db.xml</Source>
+	</Query>
+	</DB>
+	<DB>
+	<KeyType>integer</KeyType>
+	<PayloadType>String</PayloadType>
+	<NoOfQueryTypes>1</NoOfQueryTypes>
+	<Query>
+	<QueryType>Insert Element</QueryType>
+	<NumberOfQueries>2</NumberOfQueries>
+	<Key>1</Key>
+	<Element>
+		<name>element4</name>
+		<descr>test element for adding key-value pair to databse with value as list of string</descr>
+		<timestamp>11/14/2015 7:00:16 PM</timestamp>
+		<children>
+			<key>11</key>
+			<key>12</key>
+		</children>
+		<payload>
+			<item>test elemet4's payload</item>
+		</payload>
+	</Element>
+	</Query>
+	</DB>
+</NoSQL>
+	

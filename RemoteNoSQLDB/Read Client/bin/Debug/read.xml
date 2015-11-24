@@ -1,0 +1,47 @@
+<NoSQL>
+  <DB>
+	  <KeyType>String</KeyType>
+	  <PayloadType>List`1</PayloadType>
+	  <Query>
+	<QueryType>Restore Database</QueryType>
+	<Source>enum_db.xml</Source>
+	</Query>
+	  <Query>
+	    <QueryType>Search Key-Value</QueryType>
+	    <NumberOfQueries>2</NumberOfQueries>
+	    <Key>one</Key>
+	  </Query>
+	  <Query>
+	    <QueryType>Search Children</QueryType>
+	    <NumberOfQueries>2</NumberOfQueries>
+	    <Key>one</Key>
+	  </Query>
+	  <Query>
+	    <QueryType>Pattern Matching</QueryType>
+	    <NumberOfQueries>2</NumberOfQueries>
+	    <Pattern>one</Pattern>
+	  </Query>
+	  <Query>
+	    <QueryType>Pattern Matching</QueryType>
+	    <NumberOfQueries>2</NumberOfQueries>
+	    <Pattern></Pattern>
+	  </Query>
+	  <Query>
+	    <QueryType>String in Metadata</QueryType>
+	    <NumberOfQueries>2</NumberOfQueries>
+	    <String>ele</String>
+	  </Query>
+	  <Query>
+	    <QueryType>Time-Date Interval</QueryType>
+	    <NumberOfQueries>1</NumberOfQueries>
+	    <SDateTime>10/09/2014 09:12:23 AM</SDateTime>
+		<EDateTime>12/09/2015 09:12:23 AM</EDateTime>
+	  </Query>
+	  <Query>
+	    <QueryType>Time-Date Interval</QueryType>
+	    <NumberOfQueries>1</NumberOfQueries>
+	    <SDateTime>10/09/2014 09:12:23 AM</SDateTime>
+		<EDateTime></EDateTime>
+	  </Query>
+	</DB>
+</NoSQL>

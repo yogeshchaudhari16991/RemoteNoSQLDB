@@ -1,0 +1,11 @@
+<NoSQL>
+  <DB>
+	<KeyType>String</KeyType>
+	<PayloadType>List`1</PayloadType>
+	  <Query>
+	    <QueryType>Search Key-Value</QueryType>
+	    <NumberOfQueries>1000</NumberOfQueries>
+	    <Key>one</Key>
+	  </Query>
+	</DB>
+</NoSQL>

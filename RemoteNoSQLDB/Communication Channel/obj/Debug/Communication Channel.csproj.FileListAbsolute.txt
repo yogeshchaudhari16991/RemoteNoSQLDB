@@ -1,0 +1,16 @@
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\Communication Channel\bin\Debug\Communication Channel.exe.config
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\Communication Channel\bin\Debug\Communication Channel.exe
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\Communication Channel\bin\Debug\Communication Channel.pdb
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\Communication Channel\bin\Debug\Microsoft.Data.Services.dll
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\Communication Channel\bin\Debug\Microsoft.Data.OData.dll
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\Communication Channel\bin\Debug\Microsoft.Data.Edm.dll
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\Communication Channel\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\Communication Channel\bin\Debug\System.Spatial.dll
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\Communication Channel\bin\Debug\Microsoft.Data.Services.xml
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\Communication Channel\bin\Debug\Microsoft.Data.OData.xml
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\Communication Channel\bin\Debug\Microsoft.Data.Edm.xml
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\Communication Channel\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\Communication Channel\bin\Debug\System.Spatial.xml
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\Communication Channel\obj\Debug\Communication Channel.csprojResolveAssemblyReference.cache
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\Communication Channel\obj\Debug\Communication Channel.exe
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\Communication Channel\obj\Debug\Communication Channel.pdb

@@ -1,0 +1,6 @@
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\NoSQLDB\bin\Debug\NoSQLDB.exe.config
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\NoSQLDB\bin\Debug\NoSQLDB.exe
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\NoSQLDB\bin\Debug\NoSQLDB.pdb
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\NoSQLDB\obj\Debug\NoSQLDB.csprojResolveAssemblyReference.cache
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\NoSQLDB\obj\Debug\NoSQLDB.exe
+C:\Yogesh\SU\Fall15\SMA\Project4-1\RemoteNoSQLDB\NoSQLDB\obj\Debug\NoSQLDB.pdb

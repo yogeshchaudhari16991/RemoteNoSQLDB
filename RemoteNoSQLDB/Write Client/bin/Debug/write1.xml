@@ -1,0 +1,24 @@
+<NoSQL>
+<DB>
+	<KeyType>String</KeyType>
+	<PayloadType>List`1</PayloadType>
+	<Query>
+	<QueryType>Insert Element</QueryType>
+	<NumberOfQueries>1000</NumberOfQueries>
+	<Key>one</Key>
+	<Element>
+		<name>element4</name>
+		<descr>test element for adding key-value pair to databse with value as list of string</descr>
+		<timestamp>11/14/2015 7:00:16 PM</timestamp>
+		<children>
+			<key>one</key>
+			<key>two</key>
+		</children>
+		<payload>
+			<item>test elemet4's payload</item>
+			<item>element's payload</item>
+		</payload>
+	</Element>
+	</Query>
+	</DB>
+	</NoSQL>

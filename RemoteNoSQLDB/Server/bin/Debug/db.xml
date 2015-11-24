@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Test DB data to XML-->
+<noSQL>
+  <keytype>String</keytype>
+  <payloadtype>List`1</payloadtype>
+  <key>1</key>
+  <element>
+    <name>Name of an Element</name>
+    <descr>Description of an Element</descr>
+    <timestamp>9/16/1111 11:11:11 PM</timestamp>
+    <children>
+      <key>1</key>
+    </children>
+    <payload>
+      <item>payload</item>
+    </payload>
+  </element>
+</noSQL>
